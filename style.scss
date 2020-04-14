@@ -1,0 +1,23 @@
+.rect {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: orangered;
+    transform: translateX(50px) scale(2);
+    transform-origin: center center;
+
+}
+
+//.rect {
+    // transform: translat(-100%, 50px);
+    // transform: translatX(100%);
+    // transform: translatY(50%);
+    
+    // transform: rotate(30deg);
+    // transform-origin: top left;
+    // transform-origin: bottom right;
+    // transform-origin: -20px -20px;
+
+    // transform: skew(-30deg);
+// }
+    
